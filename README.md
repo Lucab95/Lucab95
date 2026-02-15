@@ -1,50 +1,56 @@
-# Hi, I'm Luca Brugaletta - Machine learning engineer
+# Luca Brugaletta — Machine Learning Engineer
 
-Builder working across **AI**, **Web3**, and **mobile products**.
-Based in **Rotterdam, Netherlands**.
+Based in **Rotterdam, Netherlands**.  
+I build and ship **computer vision** and **geospatial ML** systems end-to-end: data pipelines → training → deployment.
 
-## Selected work
+**Links:** [GitHub](https://github.com/Lucab95) • [LinkedIn](https://www.linkedin.com/in/luca-brugaletta-467747143/) • [X](https://x.com/Luca_brglt)
 
-### punkpredictor.xyz (with Enrique)
-Built during a zkML gizathon collaboration and now live.
+---
 
-- Live: https://punkpredictor.xyz
+## What I work on
+- **Dense prediction / segmentation** (CV + remote sensing)
+- **Data + training pipelines** (dataset construction, evaluation, reproducibility)
+- **ML-backed services** (APIs, containers, deployment/monitoring)
+
+---
+
+## Selected projects
 
 ### House_replier
-Automation-oriented project with notebook-based workflows.
+Automation project that helped me secure my apartment in Rotterdam.  
+Notebook-driven workflows to monitor listings and streamline outreach.
 
 - Repo: https://github.com/Lucab95/House_replier
 
-### Desights-AI---Formula-1
-Formula 1 prediction challenge project (2024 Mexico Grand Prix).
-
-- Repo: https://github.com/Lucab95/Desights-AI---Formula-1
-
 ### CPVTON_Resleeve
-Computer vision / virtual try-on oriented Python project.
+Computer vision / virtual try-on project (Python). Focused on experimentation and reproducible pipelines.
 
 - Repo: https://github.com/Lucab95/CPVTON_Resleeve
 
 ### Solidity_developer
-DeAI Bootcamp final project (Q1 2025).
+DeAI Bootcamp final project (Q1 2025). Smart-contract oriented work around AI/Web3 experiments.
 
 - Repo: https://github.com/Lucab95/Solidity_developer
 
-## Hackathons
-- zkML gizathon (with Enrique)
-- ETHGlobal Brussels 2024
+---
 
-## Tech
-- Python
-- Flutter / Dart
-- Firebase
-- Web3 / Solidity
-- Jupyter workflows
+## Hackathons & competitions
 
-## Contact
-- X: https://x.com/Luca_brglt
-- GitHub: https://github.com/Lucab95
+- 🥇 **zkML Gizathon (Feb 2024)** — Built a **ZK-verifiable** model to predict the fair price of **CryptoPunks** (reported **87% accuracy, 1–MAPE**).  
+  **1st prize** (Best AI Action, **$3.5k**).  
+  Live: https://punkpredictor.xyz *(built with Enrique; currently maintained/improved by him)*
+
+- 🥇 **ETHDAM (Apr 2024)** — Worked on a model using **newly minted ERC20 contract signals** to predict **market cap success**.  
+  **Winner** (Slither Track, **$1k**).
+
+- 🥉 **GIZA & GORA AI Competition (May 2024)** — Kaggle-style challenge: predicted **default risk** of over-collateralized crypto loans.  
+  **3rd prize** (**$750**).
+
+- 🥇 **ETHGlobal Brussels (Jul 2024)** — Built a fully private **melanoma consultation** app from an image; neural network hosted on the **Nillion Testnet**.  
+  **1st prize** (Best Blind AI App, **$3k**).
 
 ---
 
-If you want to collaborate on AI, Web3, or mobile products, feel free to reach out.
+## Tech stack (typical)
+- **ML/CV:** PyTorch/TensorFlow (plus standard CV tooling)
+- **Backend:**
