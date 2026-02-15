@@ -1,4 +1,4 @@
-# Hi, I'm Luca Brugaletta 👋
+# Hi, I'm Luca Brugaletta - Machine learning engineer
 
 Builder working across **AI**, **Web3**, and **mobile products**.
 Based in **Rotterdam, Netherlands**.
