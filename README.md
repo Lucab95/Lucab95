@@ -40,15 +40,8 @@ DeAI Bootcamp final project (Q1 2025). Smart-contract oriented work around AI/We
   **1st prize** (Best AI Action, **$3.5k**).  
   Live: https://punkpredictor.xyz *(built with Enrique; currently maintained/improved by him)*
 
-- 🥇 **ETHDAM (Apr 2024)** — Worked on a model using **newly minted ERC20 contract signals** to predict **market cap success**.  
-  **Winner** (Slither Track, **$1k**).
-
-- 🥉 **GIZA & GORA AI Competition (May 2024)** — Kaggle-style challenge: predicted **default risk** of over-collateralized crypto loans.  
-  **3rd prize** (**$750**).
-
 - 🥇 **ETHGlobal Brussels (Jul 2024)** — Built a fully private **melanoma consultation** app from an image; neural network hosted on the **Nillion Testnet**.  
   **1st prize** (Best Blind AI App, **$3k**).
-
 ---
 
 ## Tech stack (typical)
