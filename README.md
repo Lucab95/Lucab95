@@ -3,17 +3,12 @@
 Builder working across **AI**, **Web3**, and **mobile products**.
 Based in **Rotterdam, Netherlands**.
 
-## What I'm focused on
-- Shipping practical products end-to-end (prototype -> launch)
-- zkML and prediction systems
-- Turning hackathon work into public demos
-
 ## Selected work
 
-### unkpredictor.xyz (with Enrique)
+### punkpredictor.xyz (with Enrique)
 Built during a zkML gizathon collaboration and now live.
 
-- Live: https://unkpredictor.xyz
+- Live: https://punkpredictor.xyz
 
 ### House_replier
 Automation-oriented project with notebook-based workflows.
