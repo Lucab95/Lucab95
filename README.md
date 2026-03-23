@@ -1,4 +1,4 @@
-# Luca Brugaletta — Machine Learning Engineer
+# Luca Brugaletta — Machine Learning Engineer / Scientific Software engineer
 
 Based in **Rotterdam, Netherlands**.  
 I build and ship **computer vision** and **geospatial ML** systems end-to-end: data pipelines → training → deployment.
